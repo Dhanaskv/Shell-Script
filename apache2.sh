@@ -1,6 +1,6 @@
 #!/bin/bash
 #Update the repository index pages........
-echo ">>>Updating the system repository index pages*********!!!!!!!!1"
+echo ">>>Updating the system repository index pages*********!!!!!!!!!1"
 sudo apt update
 
 #Upgrading the already installed packages......
