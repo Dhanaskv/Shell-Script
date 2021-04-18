@@ -4,7 +4,7 @@ echo ">>>Updating the system repository index pages*********!!!!!!!!!!!1"
 sudo apt update
 
 #Upgrading the already installed packages......
-echo ">>>Upgrading already installed packages************!!!!!!!!!!"
+echo ">>>>Upgrading already installed packages************!!!!!!!!!!"
 sudo apt upgrade
 
 #Installing apache2 web server..........
