@@ -1,0 +1,19 @@
+#what is shell
+
+shell is a command line interpreter.Shell accept human readable commands from user and execute them.
+
+#what is shell script ?
+
+we can write these commands in file as shell can take commands from file then execute them in shell avoide repetitive work 
+
+There are various shells available :
+
+1)Bash Shell(It is most widely used shell in linux systems and default login shell in linux )
+
+2)C shell
+
+3)Korn shell
+
+
+
+
