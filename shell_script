@@ -4,6 +4,8 @@ shell is a command line interpreter.Shell accept human readable commands from us
 
 #what is shell script ?
 
+list of commands in order of execution is called shell script
+
 we can write these commands in file as shell can take commands from file then execute them in shell avoide repetitive work 
 
 There are various shells available :
@@ -13,6 +15,12 @@ There are various shells available :
 2)C shell
 
 3)Korn shell
+===================================
+
+How to determine the shell
+
+echo $SHELL
+
 
 
 
